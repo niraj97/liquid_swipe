@@ -4,7 +4,7 @@ A new UI Challange on Flutter application.
 Implementation of [Cuberto](https://dribbble.com/cuberto)'s [design](https://dribbble.com/shots/5813405-Liquid-Swipe-Open-Source).
 
 ## Design(s):
-![Design](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
+![Design](Screenshot/design.gif)
 
 ## Implementation(s):
 ![Implementaion](https://raw.githubusercontent.com/niraj97/shoe_app/master/implementation.png)
