@@ -7,7 +7,7 @@ Implementation of [Cuberto](https://dribbble.com/cuberto)'s [design](https://dri
 ![Design](Screenshot/design.gif)
 
 ## Implementation(s):
-![Implementaion](https://raw.githubusercontent.com/niraj97/shoe_app/master/implementation.png)
+![Implementaion](Screenshot/implementation.gif)
 
 ## Getting Started with Flutter
 
