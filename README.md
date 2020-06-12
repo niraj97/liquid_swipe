@@ -1,8 +1,15 @@
-# liquidswipe
+# Liquid Swipe
+A new UI Challange on Flutter application.
 
-A new Flutter application.
+Implementation of [Cuberto](https://dribbble.com/cuberto)'s [design](https://dribbble.com/shots/5813405-Liquid-Swipe-Open-Source).
 
-## Getting Started
+## Design(s):
+![Design](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
+
+## Implementation(s):
+![Implementaion](https://raw.githubusercontent.com/niraj97/shoe_app/master/implementation.png)
+
+## Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
 
